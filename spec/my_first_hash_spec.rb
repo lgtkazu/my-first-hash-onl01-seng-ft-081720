@@ -3,6 +3,7 @@ require_relative '../my_first_hash.rb'
 def my_first_hash
   your_hash= {"pineapple" => "Best Fruit", "peanuts" => "I'm not allergic", "Mickey Mouse" => "Favourite character so far"}
 end
+end
 
 context "Challenge I: Instantiating Hashes" do
   describe "#my_hash" do
