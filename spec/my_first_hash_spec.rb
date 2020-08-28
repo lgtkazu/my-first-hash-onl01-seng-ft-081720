@@ -1,6 +1,6 @@
 require_relative 'spec_helper'
 require_relative '../my_first_hash.rb'
-
+def
 
 context "Challenge I: Instantiating Hashes" do
   describe "#my_hash" do
